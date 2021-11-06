@@ -1,0 +1,230 @@
+* {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.menu {
+  float: center;
+  padding-left: 3%;
+}
+.logo,
+.nav {
+  margin-left: 4%;
+  font-size: 130%;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: rgb(0, 0, 0);
+  overflow: hidden;
+}
+.logo {
+  font-size: 250%;
+
+  font-weight: bolder;
+}
+
+.button1 {
+  list-style: none;
+
+  font-size: 130%;
+  padding-right: 9px;
+  padding-left: 9px;
+  padding-bottom: 14px;
+  padding-top: 14px;
+  margin-left: 5%;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  background-color: rgb(30, 200, 223);
+  border-radius: 5%;
+}
+.button1:hover {
+  background-color: rgb(40, 63, 189);
+}
+
+.nav:hover,
+.logo:hover {
+  color: rgb(30, 200, 223);
+}
+.vid {
+  display: block;
+  height: 300%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  border-radius: 3%;
+}
+.heading {
+  font-size: 250%;
+  padding-left: 13%;
+}
+.phera1 {
+  text-align: left;
+  color: rgb(83, 83, 83);
+  font-size: 150%;
+  padding-top: 3%;
+  margin-left: 8%;
+  margin-right: 4%;
+}
+.img1 {
+  float: right;
+  width: 40%;
+  margin-right: 10%;
+}
+
+.list1 {
+  font-size: 150%;
+  padding-left: 15%;
+  list-style-type: disc;
+}
+.l1,
+.l2:hover {
+  font-weight: bolder;
+}
+.button {
+  list-style: none;
+  font-size: 130%;
+  padding-right: 19px;
+  padding-left: 19px;
+  padding-bottom: 14px;
+  padding-top: 14px;
+  margin-left: 15%;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  background-color: rgb(30, 200, 223);
+  border-radius: 5%;
+}
+.button:hover {
+  background-color: rgb(40, 63, 189);
+}
+.heading2 {
+  text-align: center;
+
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10%;
+
+  font-size: 250%;
+}
+
+.subhead {
+  font-size: 200%;
+  text-align: right;
+  padding-right: 30%;
+  padding-top: 4%;
+}
+
+.img2 {
+  height: 30%;
+  width: 30%;
+  float: left;
+  margin-top: 1%;
+  margin-right: 2%;
+  margin-left: 2%;
+}
+.phera2 {
+  color: rgb(83, 83, 83);
+  font-size: 130%;
+  padding-right: 6%;
+  margin-top: 0px;
+  padding-bottom: 5%;
+}
+
+.subhead1 {
+  font-size: 200%;
+  float: left;
+  margin-left: 10%;
+
+  padding-right: 19%;
+}
+
+.img3 {
+  width: 30%;
+
+  float: right;
+  margin-top: 0px;
+  margin-left: 9%;
+  margin-right: 9%;
+}
+.phera3 {
+  text-align: left;
+  color: rgb(83, 83, 83);
+  font-size: 130%;
+  padding-left: 4%;
+  padding-right: 40%;
+  margin-top: 5px;
+}
+
+.heading3 {
+  font-size: 250%;
+
+  padding-left: 13%;
+}
+.img4 {
+  float: right;
+  width: 50%;
+}
+.phera4 {
+  font-size: 130%;
+  margin-left: 5%;
+  margin-right: 100px;
+}
+.List2 {
+  padding-top: 4%;
+  padding-bottom: 5%;
+  font-size: 150%;
+  padding-left: 11%;
+  list-style-type: square;
+}
+.l2 {
+  font-weight: 500;
+  padding-top: 1%;
+}
+.part3 {
+  padding-bottom: 10%;
+}
+.img5a,
+.img5b,
+.img5c {
+  width: 60%;
+}
+.mhead {
+  color: rgb(50, 50, 50);
+  font-size: 150%;
+}
+.mphera {
+  color: rgb(83, 83, 83);
+  text-align: center;
+  padding-right: 6%;
+  padding-left: 6%;
+  font-size: 90%;
+  font-weight: 600;
+}
+.part5 {
+  padding-bottom: 10%;
+}
+footer {
+  color: white;
+  background-color: rgb(119, 89, 146);
+  border-radius: 10%;
+
+  padding-left: 10%;
+}
+.con,
+.soc,
+.imp {
+  font-size: 180%;
+  margin-bottom: 0%;
+}
+
+.info,
+.sol,
+.list4 {
+  padding-left: 30%;
+}
+.list4 {
+  list-style: none;
+}
+.info:hover,
+.sol:hover,
+.fi:hover {
+  color: grey;
+  font-size: 119%;
+}
